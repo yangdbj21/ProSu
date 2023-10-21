@@ -17,7 +17,7 @@ import android.widget.ToggleButton;
 
 public class JoinStuActivity extends AppCompatActivity {
     TextView textView,spinnertxt;
-
+    // 깃허브
     String[] items
             = { "가천대학교", "가톨릭대학교", "건국대학교", "경기대학교", "경희대학교", "계원예술대학교",
             "고려대학교", "광운대학교", "국민대학교", "단국대학교", "대림대학교", "덕성여자대학교",
